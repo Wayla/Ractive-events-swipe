@@ -20,7 +20,7 @@
   }
 
   else {
-    throw new Error( 'Could not find Ractive! It must be loaded before the long-tap plugin' );
+    throw new Error( 'Could not find Ractive! It must be loaded before the swipe plugin' );
   }
 
 
