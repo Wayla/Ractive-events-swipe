@@ -2,7 +2,7 @@
         "name": "ractive-events-swipe",
         "repo": "Wayla/Ractive-events-swipe",
         "description": "Ractive-events-swipe",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "keywords": [],
         "dependencies": {
             "EightMedia/hammer.js": "*",
